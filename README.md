@@ -22,4 +22,10 @@ Python is perfectly suited to do basic calculations. Apart from addition, subtra
 - Modulo: %. This operator returns the remainder of the division of the number to the left by the number on its right. For example 18 % 7 equals 4.
 
 The code in the script on the right gives some examples.
+```
  Suppose you have $100, which you can invest with a 10% return each year. After one year, it's 100×1.1=110 dollars, and after two years it's 100×1.1×1.1=121. Add code on the right to calculate how much money you end up with after 7 years.
+```
+## Variables & Types
+Python is completely object oriented, and not "statically typed". You do not need to declare variables before using them, or declare their type. Every variable in Python is an object.
+
+[This tutorial will go over a few basic types of variables] (https://www.learnpython.org/en/Variables_and_Types).
