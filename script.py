@@ -44,3 +44,10 @@ result = savings * factor ** 7
 
 # Print out result
 print(result)
+
+# Other variable types
+# Create a variable desc
+desc = "compound interest" # A str or string
+
+# Create a variable profitable
+profitable = True # a bool or boolean
