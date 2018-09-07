@@ -29,3 +29,14 @@ The code in the script on the right gives some examples.
 Python is completely object oriented, and not "statically typed". You do not need to declare variables before using them, or declare their type. Every variable in Python is an object.
 
 [This tutorial will go over a few basic types of variables] (https://www.learnpython.org/en/Variables_and_Types).
+
+## Other variable types
+In the previous exercise, you worked with two Python data types:
+
+- int, or integer: a number without a fractional part. savings, with the value 100, is an example of an integer.
+- float, or floating point: a number that has both an integer and fractional part, separated by a point. factor, with the value 1.10, is an example of a float.
+
+Next to numerical data types, there are two other very common data types:
+
+- str, or string: a type to represent text. You can use single or double quotes to build a string.
+- bool, or boolean: a type to represent logical values. Can only be True or False (the capitalization is important!).
