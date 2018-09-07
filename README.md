@@ -40,3 +40,8 @@ Next to numerical data types, there are two other very common data types:
 
 - str, or string: a type to represent text. You can use single or double quotes to build a string.
 - bool, or boolean: a type to represent logical values. Can only be True or False (the capitalization is important!).
+
+## Operations with other types
+Filip mentioned that different types behave differently in Python.
+
+When you sum two strings, for example, you'll get different behavior than when you sum two integers or two booleans.
