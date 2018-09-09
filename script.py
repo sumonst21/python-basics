@@ -1,3 +1,7 @@
+# Python Indentations
+if 5 > 2:
+  print("Five is greater than two!")
+
 # Example, do not modify!
 print(5 / 8)
 
@@ -28,9 +32,9 @@ counter = 100          # An integer assignment
 miles   = 1000.0       # A floating point
 name    = "John"       # A string
 
-print counter
-print miles
-print name
+print(counter)
+print(miles)
+print(name)
 
 # Calulations with variables
 # Create a variable savings

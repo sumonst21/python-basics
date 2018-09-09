@@ -12,6 +12,11 @@ Python is a pretty versatile language. For which applications can you use Python
 ## The Python Interface
 Example code added on script.py
 
+# Python Indentations
+"""Where in other programming languages the indentation in code is for readability only, in Python the indentation is very important.
+Python uses indentation to indicate a block of code. """
+
+
 ## Any comments?
 To add comments to your Python script, you can use the # tag. These comments are not run as Python code, so they will not influence your result.
 
